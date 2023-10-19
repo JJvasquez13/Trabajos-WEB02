@@ -79,7 +79,6 @@
             </div>
         </div>
 
-        <!-- Formulario para que el jugador ingrese el monto de la apuesta -->
         <div class="row">
             <div class="col-12 d-flex justify-content-center mt-4">
                 <form method="POST" action="dosDados.php">
